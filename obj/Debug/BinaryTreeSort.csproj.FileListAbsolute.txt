@@ -1,0 +1,6 @@
+c:\users\junaid\documents\visual studio 2013\Projects\BinaryTreeSort\BinaryTreeSort\bin\Debug\BinaryTreeSort.exe.config
+c:\users\junaid\documents\visual studio 2013\Projects\BinaryTreeSort\BinaryTreeSort\obj\Debug\BinaryTreeSort.csprojResolveAssemblyReference.cache
+c:\users\junaid\documents\visual studio 2013\Projects\BinaryTreeSort\BinaryTreeSort\bin\Debug\BinaryTreeSort.exe
+c:\users\junaid\documents\visual studio 2013\Projects\BinaryTreeSort\BinaryTreeSort\bin\Debug\BinaryTreeSort.pdb
+c:\users\junaid\documents\visual studio 2013\Projects\BinaryTreeSort\BinaryTreeSort\obj\Debug\BinaryTreeSort.exe
+c:\users\junaid\documents\visual studio 2013\Projects\BinaryTreeSort\BinaryTreeSort\obj\Debug\BinaryTreeSort.pdb
